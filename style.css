@@ -18,3 +18,4 @@ list-style: none; }
 background-color: #967E92; border-bottom-left-radius: 0; position: relative;
 } .to-message{
 background: #bc818f; border-bottom-right-radius: 0; right: -100px !important; position: relative;
+}
